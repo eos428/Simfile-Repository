@@ -27,7 +27,7 @@ A: NO.
 Q: Can I help out with GFX, guest charts?<br>
 A: Sure why not. Make a pull request and I'll give my response :)
 
-Q: Can I give my input, critique on your charts?
+Q: Can I give my input, critique on your charts?<br>
 A: I'm all ears! In Github, just post an issue, and anywhere else... just directly chat to me.
 
 Q: No .osu or .osz file?<br>
