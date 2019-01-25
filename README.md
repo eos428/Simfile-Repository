@@ -9,6 +9,12 @@ A: Doujin, BMS, and rhythm game songs sometimes.
 Q: What's your charting style?<br>
 A: From my own words - expect jacks, trills, and streams. I'm pretty anti-noodle.
 
+Q: How long have you been charting?<br>
+A: I first started like... around a decade ago I guess? Haven't been consistent with charting though, since it really depends on my mood, and whether I'm busy or not.
+
+Q: Are you that kind of guy that uses different aliases for some charts?<br>
+A: Yes, haha
+
 Q: Do you plan to submit your files somewhere?<br>
 A: Maybe
 
