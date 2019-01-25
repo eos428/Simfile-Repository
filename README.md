@@ -10,7 +10,7 @@ Q: What's your charting style?<br>
 A: From my own words - expect jacks, trills, and streams. I'm pretty anti-noodle.
 
 Q: How long have you been charting?<br>
-A: I first started like... around a decade ago I guess? Haven't been consistent with charting though, since it really depends on my mood, and whether I'm busy or not.
+A: I first started like... around a decade ago I guess? Not under this name. Haven't been consistent with charting though, since it really depends on my mood, and whether I'm busy or not.
 
 Q: Are you that kind of guy that uses different aliases for some charts?<br>
 A: Yes, haha
@@ -20,6 +20,12 @@ A: Maybe
 
 Q: What charting tool are you using?<br>
 A: Arrow Vortex
+
+Q: Can I reupload your files?
+A: NO.
+
+Q: Can I help out with GFX, guest charts?
+A: Sure why not. Make a pull request and I'll give my response :)
 
 Q: No .osu or .osz file?<br>
 A: You can convert them yourself through Arrow Vortex.
