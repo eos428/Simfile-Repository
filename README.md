@@ -24,4 +24,4 @@ A: Arrow Vortex
 Q: No .osu or .osz file?<br>
 A: You can convert them yourself through Arrow Vortex.
 
-I guess that's it for now. Hope you enjoy what I bring for you!
+Then there's the usual thing where I say I don't own rights to the songs, images and etc. And I guess that's it for now. Hope you enjoy what I bring for you!
