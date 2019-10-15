@@ -7,7 +7,7 @@ Q: What kind of songs do you like to chart?<br>
 A: Doujin, BMS, and rhythm game songs sometimes.
 
 Q: What's your charting style?<br>
-A: From my own words - expect jacks, trills, and streams. I'm pretty anti-noodle.
+A: I can't really say for myself haha. I'm pretty anti-noodle and probably inspired by SDVX a lot though.
 
 Q: How long have you been charting?<br>
 A: I first started like... around a decade ago I guess? Not under this name. Haven't been consistent with charting though, since it really depends on my mood, and whether I'm busy or not.
